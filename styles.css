@@ -45,6 +45,10 @@ main h1 {
   flex-wrap: wrap;
 }
 
+.products a {
+  text-decoration: none;
+}
+
 .product {
   margin: 40px;
   background-color:#D9D9D9;
