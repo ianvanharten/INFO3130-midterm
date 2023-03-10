@@ -19,4 +19,6 @@ In order to see it live, I recommend using Live Server in Visual Studio Code whi
 
 Please note that the website is not yet complete. The 'Add to Cart' button is not yet functional, and the details page only exists for one of the sneakers. Each product link will only take you to that one product. 
 
+### Reporting Bugs or Ideas for New Features
+
 For any bugs you discover or ideas for features you think would enhance the project, please create an issue in the Issues tab noted above. For bugs, make sure to be very specific and include instructions for how to replicate it. Once I am able to recreate it, I will make the change or invite you to contribute a fix yourself if you would like to do that.
