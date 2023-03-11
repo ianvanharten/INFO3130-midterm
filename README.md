@@ -22,6 +22,7 @@ Please note that the website is not yet complete. The 'Add to Cart' button is no
 ### Reporting Bugs or Ideas for New Features
 
 For any bugs you discover or ideas for features you think would enhance the project, please create an issue in the Issues tab noted above. For bugs, make sure to be very specific and include instructions for how to replicate it. Once I am able to recreate it, I will make the change or invite you to contribute a fix yourself if you would like to do that.
+The Issues section can be viewed here: https://github.com/ianvanharten/INFO3130-midterm/issues
 
 ### Example of a Post-Launch Change
 Here's an example of a change made to the website post-launch: https://github.com/ianvanharten/INFO3130-midterm/commit/4de613e05b62feef7fb1d98d8a0eeec267af9fa1
