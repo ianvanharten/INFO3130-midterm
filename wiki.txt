@@ -1,0 +1,7 @@
+Interested in learning more about version control? 
+Atlassian has some great documentation to help you learn git. 
+It'll help you learn about git commits, creating branches, making PRs, merging, rebasing, cloning, and lots more.
+Check it out here: https://www.atlassian.com/git
+
+Are you interested in learning about ecommerce websites like this one? 
+Here's a nice article where you can learn about it: https://dev.to/themodernweb/how-to-make-an-e-commerce-website-with-html-css-and-js-3aon
